@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div><p> welcome to proshop</p></div>
+    <div><h2> welcome to proshop</h2></div>
   );
 }
 
